@@ -1,13 +1,9 @@
-# Beautify.vim
-
+### Beautify.vim
 - This little **beautifier** will reformat and reindent.
 - This **converter** will convert selected text to another format.
 
-![DEMO]( assets/01.gif )
-![DEMO]( assets/02.gif )
-
 ## Usage
-
+*Fast: `:Beautify [tab]`
 **Beautify.vim** is reformatter and converter.
 
 ### Reformatting
